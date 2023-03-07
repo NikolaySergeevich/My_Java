@@ -1,0 +1,19 @@
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+WARNING: Тестовое логирование 1
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+мар. 07, 2023 1:53:23 PM Homework.Hom_2.Obj_1 main
+INFO: Вот текущиё массив
+1 2 3 4 5 8 9 10 
