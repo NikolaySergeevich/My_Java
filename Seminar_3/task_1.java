@@ -11,12 +11,12 @@ public class task_1 {
 
 
         for (int i = 0; i <= 10; i++) {
-            double rand = Math.round((Math.random())*100);
+            double rand = Math.round((Math.random())*10);
             arrayList.add(rand);
 
         }
 
-        arrayList.sort(Comparator.naturalOrder());
+        arrayList.sort(Comparator.naturalOrder()); // сортирует по возрастанию
 
         for (double i: arrayList) {
             System.out.println(i);
