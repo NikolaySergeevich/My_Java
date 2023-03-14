@@ -1,9 +1,8 @@
-package Seminar_3;
+// package Seminar_3;
 // Заполнить список названиями планет Солнечной системы в произвольном порядке с повторениями. 
 // Вывести название каждой планеты и количество его повторений в списке.
 
 import java.util.ArrayList;
-import java.util.stream.Collectors;
 
 public class task_2 {
     public static void main(String[] args) {
