@@ -18,13 +18,13 @@ import java.util.Scanner;
 
 public class task2 {
     public static void main(String[] args) {
-        Scanner scan_line = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         LinkedList<String> arr_list = new LinkedList<>();
 
         while (true) {
             System.out.println(arr_list);
             System.out.print("Введите текст: ");
-            String text = scan_line.next();
+            String text = scan.next();
             if (text.contains("print~")) {
                 int remove_idx = Integer.parseInt(text.split("~")[1]);
                 try {
