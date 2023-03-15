@@ -28,7 +28,7 @@ public class funcshionaly {
         }
         return finList;
     }
-    // добавляет в лист элемент в конец
+    // добавляет в конец листа элемент
     public static void enqueue(LinkedList<Integer> list) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите число: ");
@@ -73,7 +73,7 @@ public class funcshionaly {
 
     // процесс работы
     public static void work(LinkedList<Integer> list) {
-        int numb = 1;
+        int numb = 4;
         while (numb != 0) {
             numb = chooseOperate();
             if(numb == 1){
@@ -90,6 +90,9 @@ public class funcshionaly {
                 System.out.printf("\nПервый элемент списка = %d\n", firstNum);
                 System.out.println(list);
             }
+            if (numb == 0){
+                System.out.println("Конец)");
+            }
         }
     }
 }
@@ -100,20 +103,5 @@ public class funcshionaly {
 
 
 
-
-// if(numb == 1){
-//     enqueue(list);
-//     System.out.println(list);
-// }
-// if(numb == 2){
-//     int removeFirst = dequeue(list);
-//     System.out.println(removeFirst);
-//     System.out.println(list);
-// }
-// if(numb == 3){
-//     int firstNum = first(list);
-//     System.out.println(firstNum);
-//     System.out.println(list);
-// }
 
 

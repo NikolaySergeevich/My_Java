@@ -9,9 +9,7 @@ import java.util.LinkedList;
 public class Obj_2 {
     public static void main(String[] args) {
         LinkedList<Integer> startList = funcshionaly.creatLinkedList();
-        System.out.println(startList); 
-        // int numObj = funcshionaly.chooseOperate();
-        funcshionaly.work(startList);
-        
+        System.out.println(startList);
+        funcshionaly.work(startList);  
     }
 }
